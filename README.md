@@ -8,6 +8,7 @@ A simple Stone Paper Scissors game built using Python.
 - If a match ends in a draw, an extra round is added.
 - Used a `while` loop instead of a `for` loop because the number of rounds can increase whenever a draw happens.
 - Game details are stored in a JSON file for future reference.
+- if the file is not found it create automatically to your folder.
 
 ## Stored Details
 - User Name
